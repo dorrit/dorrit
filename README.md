@@ -1,3 +1,8 @@
-# Hi there 👋, I'm Ucup!
+# Oh, you’re here?
 
-I'm a passionate software developer with a love for building things that help people.
+## Hi there, I'm Dorrit
+
+I write code, break things, fix them, then break them again.
+Just look around, pretend you understand my repos, and star something you’ll never clone.
+
+Enjoy your stay… or don’t. Up to you.
